@@ -279,9 +279,9 @@ return [
     // your application should be included in this list.
     'directory_list' => [
         'src',
-        'vendor/diablomedia/zendframework1-exception/src',
-        'vendor/diablomedia/zendframework1-json/src',
-        'vendor/diablomedia/zendframework1-xml/src',
+        'vendor/donkeyworks/zendframework1-exception/src',
+        'vendor/donkeyworks/zendframework1-json/src',
+        'vendor/donkeyworks/zendframework1-xml/src',
         'vendor/phpunit/phpunit/src',
     ],
 
